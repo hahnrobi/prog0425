@@ -1,0 +1,10 @@
+C:\Users\hahnr\source\repos\ConsoleApp4\Scrabble\bin\Debug\Scrabble.exe.config
+C:\Users\hahnr\source\repos\ConsoleApp4\Scrabble\bin\Debug\Scrabble.exe
+C:\Users\hahnr\source\repos\ConsoleApp4\Scrabble\bin\Debug\Scrabble.pdb
+C:\Users\hahnr\source\repos\ConsoleApp4\Scrabble\obj\Debug\Scrabble.csprojAssemblyReference.cache
+C:\Users\hahnr\source\repos\ConsoleApp4\Scrabble\obj\Debug\Scrabble.Form1.resources
+C:\Users\hahnr\source\repos\ConsoleApp4\Scrabble\obj\Debug\Scrabble.Properties.Resources.resources
+C:\Users\hahnr\source\repos\ConsoleApp4\Scrabble\obj\Debug\Scrabble.csproj.GenerateResource.cache
+C:\Users\hahnr\source\repos\ConsoleApp4\Scrabble\obj\Debug\Scrabble.csproj.CoreCompileInputs.cache
+C:\Users\hahnr\source\repos\ConsoleApp4\Scrabble\obj\Debug\Scrabble.exe
+C:\Users\hahnr\source\repos\ConsoleApp4\Scrabble\obj\Debug\Scrabble.pdb
